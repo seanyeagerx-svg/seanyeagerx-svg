@@ -36,6 +36,12 @@ AI 工作流 · 本地工具 · 创作自动化
 
 每个仓库分别维护安装说明、使用示例、适用条件和验证范围。
 
+### [龙虾工作流 Skill](https://github.com/seanyeagerx-svg/openclaw-workflow-skills)
+
+归因核对、跨窗口对账、漏答恢复、定时任务核查等协作流程。对历史集合中的 18 项逐一审查，首批公开 **10 项审阅版**；其余 8 项的缺失依赖、来源和验证问题写在[审查表](https://github.com/seanyeagerx-svg/openclaw-workflow-skills/blob/main/AUDIT.md)中。
+
+只提供经过整理的项目流程，不随包分发第三方 Skill；静态检查与真实运行验收分别说明。
+
 ## 产品整理中
 
 | 产品 | 解决的问题 | 进展 |
