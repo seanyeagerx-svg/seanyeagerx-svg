@@ -28,13 +28,20 @@ AI 工作流 · 本地工具 · 创作自动化
 
 ## 可复用的 Skill
 
+### [我们在 Codex 里做的 Skills](https://github.com/seanyeagerx-svg/codex-made-skills)
+
+4 项已确认由本项目编写或自建封装的协作工具，单独组成 Codex 合集。
+
 | 遇到的问题 | 工具 | 当前公开版 |
 |---|---|---|
 | 要求有歧义，做到一半才发现理解错了 | [复述与歧义核对](https://github.com/seanyeagerx-svg/request-restate-skill) | 0.2.2 试用版 |
 | 返工时改掉了已经确认的内容 | [返工诊断](https://github.com/seanyeagerx-svg/rework-diagnosis) | 0.1.4 试用版 |
 | 找参考时，搜索结果总是一个样 | [Pinterest 搜索入口](https://github.com/seanyeagerx-svg/pinterest-search-links) | 1.6.0 试用版 |
+| 资料和方案太多，需要筛成有依据的短名单 | [资料筛选器](https://github.com/seanyeagerx-svg/codex-made-skills/tree/main/skills/research-curator) | 0.1.0 审阅版 |
 
-每个仓库分别维护安装说明、使用示例、适用条件和验证范围。
+前三项保留独立仓库；合集固定收录版本，并附来源、安装和验证说明。来源未核清的其他本机 Skill 暂不收入。
+
+[下载 4 项 Codex 合集 ZIP →](https://github.com/seanyeagerx-svg/codex-made-skills/archive/refs/tags/v0.1.0-review.zip)
 
 ### [小龙虾自己做的 Skills](https://github.com/seanyeagerx-svg/lobster-made-skills)
 
