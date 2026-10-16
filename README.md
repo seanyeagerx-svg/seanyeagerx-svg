@@ -36,11 +36,13 @@ AI 工作流 · 本地工具 · 创作自动化
 
 每个仓库分别维护安装说明、使用示例、适用条件和验证范围。
 
-### [龙虾工作流 Skill](https://github.com/seanyeagerx-svg/openclaw-workflow-skills)
+### [小龙虾自己做的 Skills](https://github.com/seanyeagerx-svg/lobster-made-skills)
 
-归因核对、跨窗口对账、漏答恢复、定时任务核查等协作流程。对历史集合中的 18 项逐一审查，目前公开 **14 项审阅版**；新增 Gmail 接入、meyo API、五步流程审查和指定会话恢复。另 4 项因外部来源或归属尚未核清暂缓，具体见[审查表](https://github.com/seanyeagerx-svg/openclaw-workflow-skills/blob/main/AUDIT.md)。
+归因核对、跨窗口对账、漏答恢复、定时任务核查等协作流程。对历史集合中的 18 项逐一审查，目前公开 **14 项审阅版**；新增 Gmail 接入、meyo API、五步流程审查和指定会话恢复。另 4 项因外部来源或归属尚未核清暂缓，具体见[审查表](https://github.com/seanyeagerx-svg/lobster-made-skills/blob/main/AUDIT.md)。
 
 只提供经过整理的项目流程，不随包分发第三方 Skill。42 项合成测试与独立复查用于检查公开脚本和行为边界；真实账号接入仍需单独验收。
+
+[下载 14 项合集 ZIP →](https://github.com/seanyeagerx-svg/lobster-made-skills/archive/refs/tags/v0.2.1-review.zip)
 
 ## 产品整理中
 
