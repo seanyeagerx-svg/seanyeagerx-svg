@@ -55,10 +55,10 @@ AI 工作流 · 本地工具 · 创作自动化
 
 | 产品 | 解决的问题 | 公开版与实测 |
 |---|---|---|
-| [魔法师手札](https://github.com/seanyeagerx-svg/mage-notes) | 本地听写、草稿与词库 | 36 项测试＋识别与保存实跑通过<br>[安装](https://github.com/seanyeagerx-svg/mage-notes#安装与启动) · [演示](https://github.com/seanyeagerx-svg/mage-notes/blob/main/DEMO.md) · [验证](https://github.com/seanyeagerx-svg/mage-notes/blob/main/VALIDATION.md) |
+| [魔法师手札](https://github.com/seanyeagerx-svg/mage-notes) | 本地听写、草稿与词库 | 43 项测试＋原生窗口输入实跑通过<br>[安装](https://github.com/seanyeagerx-svg/mage-notes#安装与启动) · [演示](https://github.com/seanyeagerx-svg/mage-notes/blob/main/DEMO.md) · [验证](https://github.com/seanyeagerx-svg/mage-notes/blob/main/VALIDATION.md) |
 | [字幕工厂](https://github.com/seanyeagerx-svg/subtitle-factory) | 字幕视频、校对与字幕文件导出 | 13 项测试＋三模式导出与识别实跑通过<br>[安装](https://github.com/seanyeagerx-svg/subtitle-factory#安装与启动) · [演示](https://github.com/seanyeagerx-svg/subtitle-factory/blob/main/DEMO.md) · [验证](https://github.com/seanyeagerx-svg/subtitle-factory/blob/main/VALIDATION.md) |
 
 两个产品目前均为公开测试版，仓库附源码 ZIP、安装入口与验证范围。未附模型权重、个人数据、私人视频 SOP 或第三方 Skill。
-魔法师手札的真人麦克风与外部窗口输入、两个产品的第二台电脑验证仍待完成；字幕工厂的中文译文需要人工准备与确认。
+魔法师手札的真人麦克风、更多编辑器适配，以及两个产品的第二台电脑验证仍待完成；字幕工厂的中文译文需要人工准备与确认。
 
 这里记录实际做出的东西。开发中的内容，在准备好之后再放上来。
