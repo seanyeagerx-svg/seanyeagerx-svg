@@ -38,9 +38,9 @@ AI 工作流 · 本地工具 · 创作自动化
 
 ### [龙虾工作流 Skill](https://github.com/seanyeagerx-svg/openclaw-workflow-skills)
 
-归因核对、跨窗口对账、漏答恢复、定时任务核查等协作流程。对历史集合中的 18 项逐一审查，首批公开 **10 项审阅版**；其余 8 项的缺失依赖、来源和验证问题写在[审查表](https://github.com/seanyeagerx-svg/openclaw-workflow-skills/blob/main/AUDIT.md)中。
+归因核对、跨窗口对账、漏答恢复、定时任务核查等协作流程。对历史集合中的 18 项逐一审查，目前公开 **14 项审阅版**；新增 Gmail 接入、meyo API、五步流程审查和指定会话恢复。另 4 项因外部来源或归属尚未核清暂缓，具体见[审查表](https://github.com/seanyeagerx-svg/openclaw-workflow-skills/blob/main/AUDIT.md)。
 
-只提供经过整理的项目流程，不随包分发第三方 Skill；静态检查与真实运行验收分别说明。
+只提供经过整理的项目流程，不随包分发第三方 Skill。42 项合成测试与独立复查用于检查公开脚本和行为边界；真实账号接入仍需单独验收。
 
 ## 产品整理中
 
